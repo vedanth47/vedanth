@@ -1,3 +1,4 @@
+![Profile Banner](https://github.com/vedanth47/vedanth/blob/main/vedanth%20laxminarayan%20koppkar%20(1).png)
 <h1 align="center">Hi 👋, I'm Vedanth Laxminarayan Koppikar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
